@@ -1,4 +1,4 @@
-                                                                   # 👋 Hi there! I'm Dandu Gowthami
+                                                      # 👋 Hi there! I'm Dandu Gowthami
 
 I'm a Full Stack Developer with a passion for building modern, scalable, and user-focused web applications. I specialize in both frontend and backend technologies, and I enjoy working across the entire development stack — from designing responsive UIs to deploying APIs in production.
 
